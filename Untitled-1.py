@@ -4,3 +4,5 @@ def fib(n):
     else:
         return fib(n-1) + fib(n-2)
 print([fib(n)for n in range(30)])
+
+#cbl别试了
